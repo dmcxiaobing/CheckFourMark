@@ -1,5 +1,6 @@
 # CheckFourMark
-java生成炫酷验证码，不区分大小写。登陆，发送手机验证码，防止注册机，android开发。
+
+java生成炫酷验证码，不区分大小写。登陆，发送手机验证码，防止注册机。
 
 具体描述以及效果图请看：http://blog.csdn.net/qq_21376985/article/details/52101552 
 
