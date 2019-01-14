@@ -8,7 +8,7 @@ java生成验证码。登陆,注册可以使用。
 
 [作者：微博](http://weibo.com/mcxiaobing )
 
-![效果图请看：](http://img.blog.csdn.net/20160809162959877)
+![效果图请看：](http://plblqapuw.bkt.clouddn.com/CheckFourMark.gif)
 
 部分资源来自互联网收集，并修改，归原作者所有，感谢。
 
